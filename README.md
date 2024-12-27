@@ -10,5 +10,6 @@ CENARIO DE TESTE 2
 
 CENARIO DE TESTE 3
 - observar as outras etapas da jornada do app pra ver se não aparece
-o banner onde não foi proocessado pra aparecer
+o banner onde não foi processado pra aparecer
+MIND MAP  
 [sintaxe basica mind map] https://whimsical.com/case-teste-p-bug-GNoE7A2GZ1RVPdJ5wvu3q2
